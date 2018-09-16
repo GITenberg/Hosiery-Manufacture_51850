@@ -1,11 +1,16 @@
 _repo: Hosiery-Manufacture_51850
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51850-h/images/cover.jpg
 creator:
   author:
     agent_name: Davis, William, M.A.
     gutenberg_agent_id: '49163'
     url: http://www.gutenberg.org/2009/agents/49163
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51850#Hosiery-Manufacture
 gutenberg_issued: '2016-04-24'
 gutenberg_type: Text
 identifiers:
